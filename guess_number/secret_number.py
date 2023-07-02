@@ -19,5 +19,6 @@ while guess_number != secret_number:
         # Taking another number from the user
         guess_number = int(input("Enter an integer number: "))
 
-print(secret_number)
-print("Well done, muggle! You are free now.")
+else:
+        print(secret_number)
+        print("Well done, muggle! You are free now.")
