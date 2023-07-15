@@ -43,4 +43,4 @@ def day_of_year(year, month, day):
 
     return totalDays
 
-print(day_of_year(2001, 2, 29))
+print(day_of_year(2000, 12, 31))
