@@ -1,0 +1,16 @@
+names = ["Emma",
+         "Olivia",
+         "Ava",
+         "Isabella",
+         "Sophia",
+         "Mia",
+         "Amelia",
+         "Harper",
+         "Evelyn",
+         "Abigail",
+         "Emily",
+         "Ella",
+         "Scarlett",
+         "Grace",
+         "Chloe"]
+
